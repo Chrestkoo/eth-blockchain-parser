@@ -10,10 +10,10 @@ OR
 1. URL: 127.0.0.1:8080/current-block
    Method: GET 
    Variable: -
-2. URL: 127.0.0.1:8080/address/subscribe?address=0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23
+2. URL: 127.0.0.1:8080/address/subscribe?address=
    Method: GET 
    Variable: address
-3. URL: 127.0.0.1:8080/transactions/list?address=0x1ab4973a48dc892cd9971ece8e01dcc7688f8f23
+3. URL: 127.0.0.1:8080/transactions/list?address=
    Method: GET
    Variable: address
 
