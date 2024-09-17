@@ -2,9 +2,7 @@
 
 # API Requests
 - 3 Apis is ready via postman sharable link:
-```sh
-https://api.postman.com/collections/2812573-6dc0c239-895d-430e-b85f-1b6600751ef4?access_key=<access_key>
-```
+Please refer to email / [postman link](https://api.postman.com/collections/2812573-6dc0c239-895d-430e-b85f-1b6600751ef4?access_key=<access_key>)
 
 OR
 
